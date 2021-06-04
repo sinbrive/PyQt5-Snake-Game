@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Adapted from ZetCode Tkinter version 
+Adapted from http://zetcode.com/javascript/snake/
 
 This is a simple Snake game
 clone.
